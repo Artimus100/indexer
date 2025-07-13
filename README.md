@@ -1,6 +1,6 @@
 # 🌿 CaelumX Webhook Indexer
 
-A production-ready Solana transaction indexer using [Helius](https://www.helius.xyz/) Webhooks to stream on-chain events in real time. Built as part of [CaelumX](https://caelum-x.com) to track and index **carbon credit retirement** events.
+A  Solana transaction indexer using [Helius](https://www.helius.xyz/) Webhooks to stream on-chain events in real time. Built as part of [CaelumX](https://caelum-x.com) to track and index **carbon credit retirement** events.
 
 ---
 
