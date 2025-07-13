@@ -10,9 +10,11 @@
   },
   "dependencies": {
     "@prisma/client": "^6.11.1",
+    "@types/pg": "^8.15.4",
     "body-parser": "^2.2.0",
     "dotenv": "^17.2.0",
     "express": "^5.1.0",
-    "helius-sdk": "^1.5.1"
+    "helius-sdk": "^1.5.1",
+    "pg": "^8.16.3"
   }
 }
